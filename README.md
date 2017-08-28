@@ -1,6 +1,6 @@
 # LayerStudy
 # 专用图层（各种layer子类的学习）
-** CAShapeLayer **
+# CAShapeLayer
 
 `CAShapeLayer`是一个通过矢量图形而不是bitmap来绘制的图层子类。你指定诸如颜色和线宽等属性，用CGPath来定义想要绘制的图形，最后'CAShapeLayer'就自动渲染出来了
 
